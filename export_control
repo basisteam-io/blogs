@@ -1,0 +1,16 @@
+export
+file = '/usr/sap/trans/data/R000000.VSD'
+delete from vrsd
+select * from vrsd
+delete from vrsx
+select * from vrsx
+delete from vrsx2
+select * from vrsx2
+delete from vrsmodisrc
+select * from vrsmodisrc
+delete from vrsx3
+select * from vrsx3
+delete from vrsx4
+select * from vrsx4
+delete from vrsx5
+select * from vrsx5
