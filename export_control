@@ -1,5 +1,5 @@
 export
-file = '/usr/sap/trans/data/R000000.VSD'
+file = '/usr/sap/trans/data/R00000.EWD'
 delete from vrsd
 select * from vrsd
 delete from vrsx
